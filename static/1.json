@@ -1,0 +1,20 @@
+{"products":[
+    {"productId":"10001","productName":"美食","prodcutPrice":"2499","prodcutImg":"../../static/images/01.png"},
+    {"productId":"10002","productName":"午餐","prodcutPrice":"3999","prodcutImg":"../../static/images/01.png"},
+    {"productId":"10003","productName":"果蔬生鲜","prodcutPrice":"2499","prodcutImg":"../../static/images/01.png"},
+    {"productId":"10004","productName":"医药健康","prodcutPrice":"2499","prodcutImg":"../../static/images/01.png"},
+    {"productId":"10001","productName":"大牌5折","prodcutPrice":"2499","prodcutImg":"../../static/images/01.png"},
+    {"productId":"10002","productName":"浪漫鲜花","prodcutPrice":"3999","prodcutImg":"../../static/images/01.png"},
+    {"productId":"10003","productName":"麻辣烫","prodcutPrice":"2499","prodcutImg":"../../static/images/01.png"},
+    {"productId":"10004","productName":"地方菜系","prodcutPrice":"2499","prodcutImg":"../../static/images/01.png"},
+    {"productId":"10004","productName":"披萨意面","prodcutPrice":"2499","prodcutImg":"../../static/images/01.png"},
+    {"productId":"10004","productName":"地方小吃","prodcutPrice":"2499","prodcutImg":"../../static/images/01.png"},
+    {"productId":"10001","productName":"美食2","prodcutPrice":"2499","prodcutImg":"../../static/images/01.png"},
+    {"productId":"10002","productName":"午餐2","prodcutPrice":"3999","prodcutImg":"../../static/images/01.png"},
+    {"productId":"10003","productName":"果蔬生鲜2","prodcutPrice":"2499","prodcutImg":"../../static/images/01.png"},
+    {"productId":"10004","productName":"医药健康2","prodcutPrice":"2499","prodcutImg":"../../static/images/01.png"},
+    {"productId":"10001","productName":"大牌5折2","prodcutPrice":"2499","prodcutImg":"../../static/images/01.png"},
+    {"productId":"10002","productName":"浪漫鲜花2","prodcutPrice":"3999","prodcutImg":"../../static/images/01.png"}
+    
+  ]
+}
